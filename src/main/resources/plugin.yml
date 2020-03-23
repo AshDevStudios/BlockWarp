@@ -1,0 +1,11 @@
+name: Blockwarp
+version: @version@
+main: tv.ashdev.Blockwarp
+api-version: 1.13
+authors: [AshDev]
+website: https://www.twitch.tv/AshDev
+
+commands:
+  setwarp:
+    description: set warp location.
+    usage: /<command>
